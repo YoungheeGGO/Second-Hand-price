@@ -1,2 +1,4 @@
 # Second-Hand-price
-This page is under construction
+
+This project is ongoing.
+I will complete this page as soon as the project is over.
